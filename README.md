@@ -5,5 +5,5 @@ Christopher Yquira
 Rafael David Peñalva
 #### Compilacion
 `make`
-####Ejecucion
+#### Ejecucion
 `./checkers.exe`
