@@ -4,6 +4,6 @@ George Maxi Ccapa
 Christopher Yquira
 Rafael David Peñalva
 #### Compilacion
-make
+`make`
 ####Ejecucion
-./checkers.exe
+`./checkers.exe`
